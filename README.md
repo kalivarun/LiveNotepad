@@ -52,7 +52,7 @@ Forwarding HTTP traffic from https://livenotepad.serveo.net
 
 we have used port forwarding method to host our website in public using ssh and serveo.net.
 <p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2-3bb53fdcac.mp4" width="800">
+  <img src="https://s2.ezgif.com/tmp/ezgif-2-087423231f.gif" width="800">
 </p>
 
 
