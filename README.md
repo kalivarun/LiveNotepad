@@ -41,7 +41,8 @@ Server is running on http://localhost:3000
 Now the website is running in localhost in port 3000.
 
 How to host localhost website as public website ?
-we ca use serveo.net for hosting for more information check this <p href=http://serveo.net/>link</p>
+We can use [serveo.net](http://serveo.net/) for hosting. For more information, check this [link](http://serveo.net/).
+
 
 ```bash
 ┌──(root㉿Stoic)-[/var/www/html]
