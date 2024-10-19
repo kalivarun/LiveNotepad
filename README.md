@@ -36,5 +36,6 @@ node_modules  package-lock.json  package.json  public  server.js
 └─# node server.js                                                            
 Server is running on http://localhost:3000
 ```
+![Uploading image.png…]()
 
 Now the website is running in localhost in port 3000.
