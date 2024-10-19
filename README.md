@@ -55,6 +55,4 @@ we have used port forwarding method to host our website in public using ssh and 
 [Watch the demo video](https://github.com/kalivarun/LiveNotepad/blob/main/images/simplescreenrecorder-2024-10-19_22.22.16.mp4)
 
 
-<p align="center">
-  <img src="https://streamable.com/fzdohx" alt="coding" >
-</p>
+<iframe src="https://streamable.com/e/fzdohx" width="100%" height="100%" frameborder="0" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
