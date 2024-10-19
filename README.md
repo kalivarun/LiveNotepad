@@ -39,3 +39,15 @@ Server is running on http://localhost:3000
 ![Uploading image.png…](https://github.com/kalivarun/LiveNotepad/blob/main/images/livenotepad.png)
 
 Now the website is running in localhost in port 3000.
+
+How to host localhost website as public website ?
+we ca use serveo.net for hosting for more information check this <p href=http://serveo.net/>link</p>
+
+```bash
+┌──(root㉿Stoic)-[/var/www/html]
+└─# ssh -R livenotepad:80:localhost:3000 serveo.net
+Forwarding HTTP traffic from https://livenotepad.serveo.net
+```
+
+we have used port forwarding method to host our website in public using ssh and serveo.net.
+
