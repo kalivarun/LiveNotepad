@@ -51,6 +51,14 @@ Forwarding HTTP traffic from https://livenotepad.serveo.net
 ```
 
 we have used port forwarding method to host our website in public using ssh and serveo.net.
+in case if the serveo.net server has a issue connecting try with nrgok server 
+
+
+```bash
+┌──(root㉿Stoic)-[/var/www/html]
+└─# nrgok http 3000
+```
+
 <p align="center">
   <img src="https://s2.ezgif.com/tmp/ezgif-2-087423231f.gif" width="800">
 </p>
