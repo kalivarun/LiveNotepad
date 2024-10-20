@@ -59,8 +59,5 @@ in case if the serveo.net server has a issue connecting try with nrgok server
 └─# nrgok http 3000
 ```
 
-<p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2-087423231f.gif" width="800">
-</p>
 
 
